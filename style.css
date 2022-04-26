@@ -1,4 +1,8 @@
-h1,p,body{
-    background-color: black;
-    color: red;
+ body{
+     background-color: brown ;
+ }
+@media only screen and (max-width: 600px){
+     body{
+         background-color: blue;
+     }
 }
